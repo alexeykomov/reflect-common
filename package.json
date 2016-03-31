@@ -1,0 +1,23 @@
+{
+  "name": "reflect",
+  "version": "0.0.1",
+  "description": "Reflect common lib",
+  "main": "",
+  "directories": {
+  },
+  "private": true,
+  "scripts": {
+    "build": ""
+  },
+  "keywords": [
+    "reflect", "common", "library"
+  ],
+  "author": [
+    "alexeykcontact@gmail.com (Alex K)"
+  ],
+  "license": "commercial",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
