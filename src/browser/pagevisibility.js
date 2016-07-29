@@ -5,7 +5,7 @@
 /**
  * @fileoverview Utilities for Page Visibility API 
  * {@link https://developer.mozilla.org/en/DOM/Using_the_Page_Visibility_API}.
- * @author alexeykofficial@gmail.com (Alex K.)
+ * @author alexeykcontact@gmail.com (Alex K.)
  */
 
 goog.provide('rflect.browser.pagevisibility');

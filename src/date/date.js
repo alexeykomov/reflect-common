@@ -4,7 +4,7 @@
 
 /**
  * @fileoverview Rflect date utilities.
- * @author alexeykofficial@gmail.com (Alex K.)
+ * @author alexeykcontact@gmail.com (Alex K.)
  */
 
 

@@ -4,7 +4,7 @@
 
 /**
  * @fileoverview Utilities for detecting css support.
- * @author alexeykofficial@gmail.com (Alex K.)
+ * @author alexeykcontact@gmail.com (Alex K.)
  */
 
 goog.provide('rflect.browser.css');

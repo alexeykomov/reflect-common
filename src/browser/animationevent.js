@@ -5,7 +5,7 @@
 /**
  * @fileoverview Utilities for animation events.
  * {@link http://www.sitepoint.com/css3-animation-javascript-event-handlers/}.
- * @author alexeykofficial@gmail.com (Alex K.)
+ * @author alexeykcontact@gmail.com (Alex K.)
  */
 
 goog.provide('rflect.browser.animationevent');

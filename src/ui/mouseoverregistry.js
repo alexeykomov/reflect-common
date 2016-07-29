@@ -5,7 +5,7 @@
 /**
  * @fileoverview Helper class to establish default behaviour
  * (highlight/unhighlight) for mouseover event for all components.
- * @author alexeykofficial@gmail.com (Alex K.)
+ * @author alexeykcontact@gmail.com (Alex K.)
  */
 
 goog.provide('rflect.ui.MouseOverRegistry');

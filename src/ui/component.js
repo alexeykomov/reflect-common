@@ -5,7 +5,7 @@
 /**
  * @fileoverview Implementation of UI component, that can be built with string
  * builder.
- * @author alexeykofficial@gmail.com (Alex K.)
+ * @author alexeykcontact@gmail.com (Alex K.)
  */
 
 goog.provide('rflect.ui.Component');
